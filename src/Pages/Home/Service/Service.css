@@ -1,4 +1,9 @@
 .service{
-  background-color: burlywood;
+  background-color: rgb(222, 241, 241);
   border-radius: 20px;
+}
+.service img{
+  width: 250px;
+  height: 200px;
+  padding-top: 5%;
 }
